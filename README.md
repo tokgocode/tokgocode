@@ -5,7 +5,7 @@
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: Java/Kotlin, JavaScript, Python, .NetCore ... <br>
     :email:	lxy998##gmail.com (## -> @)<br>
-    :bird: Twitter: https://twitter.com/liuxinyao?lang=en<br>
+    :bird: Twitter: https://twitter.com/liuxinyao<br>
     :camera: Instagram https://www.instagram.com/tokgocode
 
   </samp>
