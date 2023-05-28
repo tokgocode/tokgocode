@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<img src="https://avatars.githubusercontent.com/u/2705579?v=4"/>
- <hr></hr>
 <p>
   <samp>
     I'm tokgocode!  <br>
