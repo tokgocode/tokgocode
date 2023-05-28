@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>
   <samp>
-    I'm tokgocode!  <br>
+    I'm Alvin Liu (tokgocode)!  <br>
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: Java/Kotlin, JavaScript, Python, .NetCore ... <br>
     :email:	lxy998##gmail.com (## -> @)<br>
